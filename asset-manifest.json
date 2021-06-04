@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/sijil/static/js/main.baee0860.chunk.js",
+    "main.js.map": "/sijil/static/js/main.baee0860.chunk.js.map",
+    "runtime-main.js": "/sijil/static/js/runtime-main.ad9f40a4.js",
+    "runtime-main.js.map": "/sijil/static/js/runtime-main.ad9f40a4.js.map",
+    "static/css/2.905abb62.chunk.css": "/sijil/static/css/2.905abb62.chunk.css",
+    "static/js/2.63c1e28d.chunk.js": "/sijil/static/js/2.63c1e28d.chunk.js",
+    "static/js/2.63c1e28d.chunk.js.map": "/sijil/static/js/2.63c1e28d.chunk.js.map",
+    "index.html": "/sijil/index.html",
+    "precache-manifest.b439cf92016b1482087c5e5b34883670.js": "/sijil/precache-manifest.b439cf92016b1482087c5e5b34883670.js",
+    "service-worker.js": "/sijil/service-worker.js",
+    "static/css/2.905abb62.chunk.css.map": "/sijil/static/css/2.905abb62.chunk.css.map",
+    "static/js/2.63c1e28d.chunk.js.LICENSE.txt": "/sijil/static/js/2.63c1e28d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/sijil/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9f40a4.js",
+    "static/css/2.905abb62.chunk.css",
+    "static/js/2.63c1e28d.chunk.js",
+    "static/js/main.baee0860.chunk.js"
+  ]
+}
